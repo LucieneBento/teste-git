@@ -1,2 +1,2 @@
-# Estudo sobre o uso git/githu
+# Estudo sobre o uso git/github
 Projeto Impulso tec
